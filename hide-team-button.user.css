@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           SO - Hide Obnoxious Create Team Button
+@namespace      github.com/openstyles/stylus
+@version        10.0.0
+@description    Removes the darn "Create Team" button in Stack Overflow
+@author         a stone arachnid
+==/UserStyle== */
+
+@-moz-document url-prefix("https://stackoverflow.com/") {
+    ol.nav-links li:last-child > ol.nav-links {
+        display: none;
+    }
+}

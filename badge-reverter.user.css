@@ -1,0 +1,34 @@
+/* ==UserStyle==
+@name           Badge Style Reverter
+@namespace      github.com/a-stone-arachnid/SO-Unannoyingify
+@version        1.0.0
+@description    Undoes new badge styling
+@author         a-stone-arachnid
+==/UserStyle== */
+
+@-moz-document domain("stackoverflow.com"), url-prefix("https://meta.stackexchange.com") {
+    .s-progress,.s-progress--label,.s-progress__badge .s-progress--bar,.s-progress__privilege .s-progress--bar{
+        border-radius:3px;
+    }
+    .s-progress__privilege .s-progress--label{
+        border-color: rgba(69,161,99,0.5);;
+    }
+    .s-progress__bronze .s-progress--label{
+        border-color: #f0decb;
+    }
+    .s-progress__bronze .s-progress--bar{
+        background-color: #f8e9dd;
+    }
+    .s-progress__silver .s-progress--label{
+        border-color: #dddee0;
+    }
+    .s-progress__silver .s-progress--bar {
+        background-color: #eaebec;
+    }
+    .s-progress__gold .s-progress--label{
+        border-color: #ece5c6;
+    }
+    .s-progress__gold .s-progress--bar {
+        background-color: #fffae6;
+    }
+}

@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Comment Flag Dialog bug fixer
+@namespace      github.com/openstyles/stylus
+@version        0.1.0
+@description    Fixes Comment flag dialog appearing in topleft corner
+@author         a-stone-arachnid
+==/UserStyle== */
+
+@-moz-document domain("stackoverflow.com"), domain("stackexchange.com") {
+    .s-modal--dialog,.s-modal[aria-hidden="false"],.s-modal[aria-hidden="false"] .s-modal--dialog{
+        transform:none;
+    }
+}

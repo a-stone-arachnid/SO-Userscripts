@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Accessibility Feature disabler
+@namespace      github.com/openstyles/stylus
+@version        0.1.0
+@description    Remove some undesired accessibility features on StackExchange(tm)
+@author         a stone arachnid
+==/UserStyle== */
+
+@-moz-document domain("stackexchange.com") {
+    .post-text a:not(.post-tag), .comment-copy a, .wmd-preview a:not(.post-tag) {
+        text-decoration: none;
+    }
+}

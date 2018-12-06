@@ -7,7 +7,7 @@ Table of Contents
 * [badge-reverter](#badge-reverterusercss)
 * [comment-dialog-bugfix](#comment-dialog-bugfixusercss)
 * [hide-team-button](#hide-team-buttonusercss)
-* [no-more-jobs](#hide-teams-and-jobsusercss)
+* [no-more-jobs](#hide-teams-and-jobsuserjs)
 
 badge-reverter.user.css
 ------------
@@ -24,7 +24,7 @@ hide-team-button.user.css
 [(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/hide-team-button.user.css)
 Hides the "+ Create Team" link in the StackExchange™ MegaSidebar LinkNavigator™.
 
-hide-teams-and-jobs.user.css
+hide-teams-and-jobs.user.js
 ------------
-[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/hide-teams-and-jobs.user.css)
+[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/hide-teams-and-jobs.user.js)
 Hides some Stack Overflow features related to Teams and Jobs

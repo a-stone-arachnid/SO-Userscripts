@@ -1,6 +1,6 @@
-SO-Unannoyingify
+SO Userscripts
 ============
-Make StackOverflow less annoying
+Make StackOverflow more useable
 
 Table of Contents
 ------------
@@ -10,15 +10,15 @@ Table of Contents
 
 badge-reverter.user.css
 ------------
-[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Unannoyingify/master/badge-reverter.user.css)
-Undoes badge progress styles introduced with the new responsive themes.
+[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/badge-reverter.user.css)
+Reverts low-contrast badge progress styles introduced with the StackExchange™ GlobalDesign ResponsiveThemes™
 
 comment-dialog-bugfix.user.css
 ------------
-[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Unannoyingify/master/comment-dialog-bugfix.user.css)
-Fixes bugs in the new Comment Dialog showing up in the top left corner.
+[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/comment-dialog-bugfix.user.css)
+Fixes bugs in the StackExchange™ BadComment SuperFlagger™ showing up in the top left corner.
 
 hide-team-button.user.css 
 ------------
-[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Unannoyingify/master/hide-team-button.user.css)
-Hides the "Create Team" button in the StackExchange™ SuperAnnoying NavigationSidebar™.
+[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/hide-team-button.user.css)
+Hides the "+ Create Team" link in the StackExchange™ MegaSidebar LinkNavigator™.

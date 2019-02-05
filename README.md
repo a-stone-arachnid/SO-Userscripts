@@ -26,7 +26,7 @@ Hides the "+ Create Team" link in the sidebar.
 
 no-more-jobs.user.js
 ------------
-[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/hide-teams-and-jobs.user.js)
+[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/no-more-jobs.user.js)
 Hides some Stack Overflow features related to Teams and Jobs
 
 old-delete-button.user.js

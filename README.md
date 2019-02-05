@@ -1,13 +1,13 @@
 SO Userscripts
 ============
-Make StackOverflow more useable
 
 Table of Contents
 ------------
 * [badge-reverter](#badge-reverterusercss)
 * [comment-dialog-bugfix](#comment-dialog-bugfixusercss)
 * [hide-team-button](#hide-team-buttonusercss)
-* [no-more-jobs](#hide-teams-and-jobsuserjs)
+* [old-delete-button](#old-delete-buttonuserjs)
+* [no-more-jobs](#no-more-jobsuserjs)
 
 badge-reverter.user.css
 ------------
@@ -17,14 +17,19 @@ Reverts low-contrast badge progress styles introduced with the StackExchange™ 
 comment-dialog-bugfix.user.css
 ------------
 [(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/comment-dialog-bugfix.user.css)
-Fixes bugs in the StackExchange™ BadComment SuperFlagger™ showing up in the top left corner.
+Fixes a bug where the StackExchange™ BadComment SuperFlagger™ shows up in the top left corner.
 
 hide-team-button.user.css 
 ------------
 [(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/hide-team-button.user.css)
-Hides the "+ Create Team" link in the StackExchange™ MegaSidebar LinkNavigator™.
+Hides the "+ Create Team" link in the sidebar.
 
-hide-teams-and-jobs.user.js
+no-more-jobs.user.js
 ------------
 [(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/hide-teams-and-jobs.user.js)
 Hides some Stack Overflow features related to Teams and Jobs
+
+old-delete-button.user.js
+------------
+[(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/old-delete-button.user.js)
+Reverts the new comment "Delete" link to its former `x`-in-a-circle state.

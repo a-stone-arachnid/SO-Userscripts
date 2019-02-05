@@ -6,7 +6,7 @@ Table of Contents
 * [badge-reverter](#badge-reverterusercss)
 * [comment-dialog-bugfix](#comment-dialog-bugfixusercss)
 * [hide-team-button](#hide-team-buttonusercss)
-* [old-delete-button](#old-delete-buttonuserjs)
+* [old-comment-delete-button](#old-delete-buttonuserjs)
 * [no-more-jobs](#no-more-jobsuserjs)
 
 badge-reverter.user.css
@@ -29,7 +29,7 @@ no-more-jobs.user.js
 [(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/no-more-jobs.user.js)
 Hides some Stack Overflow features related to Teams and Jobs
 
-old-delete-button.user.js
+old-comment-delete-button.user.js
 ------------
 [(install)](https://raw.githubusercontent.com/a-stone-arachnid/SO-Userscripts/master/old-delete-button.user.js)
 Reverts the new comment "Delete" link to its former `x`-in-a-circle state.

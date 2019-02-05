@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          No more Jobs
+// @name          No More Jobs!
 // @description   Remove all Jobs-related and Teams-related content from SO, making the main focus of the site Q/A
 // @author        a stone arachnid
 // @namespace     https://github.com/a-stone-arachnid/

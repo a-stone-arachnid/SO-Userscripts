@@ -6,8 +6,8 @@ Table of Contents
 * [badge-reverter](#badge-reverterusercss)
 * [comment-dialog-bugfix](#comment-dialog-bugfixusercss)
 * [hide-team-button](#hide-team-buttonusercss)
-* [old-comment-delete-button](#old-delete-buttonuserjs)
 * [no-more-jobs](#no-more-jobsuserjs)
+* [old-comment-delete-button](#old-delete-buttonuserjs)
 
 badge-reverter.user.css
 ------------

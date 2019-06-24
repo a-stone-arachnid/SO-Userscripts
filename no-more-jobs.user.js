@@ -3,7 +3,7 @@
 // @description   Remove all Jobs-related and Teams-related content from SO, making the main focus of the site Q/A
 // @author        a stone arachnid
 // @namespace     https://github.com/a-stone-arachnid/
-// @version       1.3.1
+// @version       1.3.2
 // @match         https://*.stackoverflow.com/*
 // @exclude       https://chat.*.com/*
 // ==/UserScript==
@@ -15,7 +15,7 @@ StackExchange.ready(function(){
 #profile-side a[href^='/users/jobsearch'], #profile-side a[href*='job-alerts'],
 .site-footer--nav li.-item a[href^='https://stackoverflow.com/jobs'], #hireme,
 .site-footer--nav li.-item a[href^='https://stackoverflow.com/teams'],
-.-marketing-link.js-gps-track
+.-marketing-link.js-gps-track, .js-product-link
 {
 	display:none!important
 }

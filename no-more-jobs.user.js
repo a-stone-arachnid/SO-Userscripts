@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          No More Jobs!
+// @name          No more Jobs or Teams!
 // @description   Remove all Jobs-related and Teams-related content from SO, making the main focus of the site Q/A
 // @author        a stone arachnid
 // @namespace     https://github.com/a-stone-arachnid/
@@ -25,5 +25,4 @@ StackExchange.ready(function(){
 `).appendTo("head");
   $("#nav-questions svg").hide();
   $("#nav-questions span").text("Questions");
-
 });
